@@ -1,0 +1,497 @@
+[
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-1",
+    "title": "r/growthhacking Scaling Loops",
+    "platform": "Reddit",
+    "category": "Growth Hacking",
+    "memberCount": "92,000+ members",
+    "description": "Data-driven acquisition loops, cold email infrastructure, programmatic landing pages, and virality mechanics.",
+    "joinUrl": "https://www.reddit.com/r/growthhacking/",
+    "tags": [
+      "growth",
+      "marketing",
+      "acquisition",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-2",
+    "title": "r/SEO Search Optimization",
+    "platform": "Reddit",
+    "category": "Search Engine Optimization",
+    "memberCount": "280,000+ members",
+    "description": "Technical SEO audits, Core Web Vitals, link building strategies, and algorithmic Google update discussions.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "serp",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-3",
+    "title": "r/marketing Professional Strategists",
+    "platform": "Reddit",
+    "category": "General Marketing",
+    "memberCount": "780,000+ members",
+    "description": "Omnichannel brand positioning, customer lifetime value (LTV) modeling, and marketing mix modeling (MMM).",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "strategy",
+      "brand",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-4",
+    "title": "r/digitalmarketing Performance Media",
+    "platform": "Reddit",
+    "category": "Digital Media",
+    "memberCount": "240,000+ members",
+    "description": "Attribution modeling, programmatic media buying, conversion rate optimization (CRO), and ROAS analytics.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
+    "tags": [
+      "digital",
+      "performance",
+      "analytics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-5",
+    "title": "r/PPC Paid Advertising",
+    "platform": "Reddit",
+    "category": "Paid Search & Social",
+    "memberCount": "165,000+ members",
+    "description": "Google Ads Performance Max campaigns, Meta ad account scaling, TikTok ads bidding, and negative keyword lists.",
+    "joinUrl": "https://www.reddit.com/r/PPC/",
+    "tags": [
+      "ppc",
+      "googleads",
+      "metaads",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-6",
+    "title": "r/content_marketing Content Strategy",
+    "platform": "Reddit",
+    "category": "Content Marketing",
+    "memberCount": "135,000+ members",
+    "description": "Hub-and-spoke topic clusters, editorial calendars, repurposing workflows, and authoritative thought leadership.",
+    "joinUrl": "https://www.reddit.com/r/content_marketing/",
+    "tags": [
+      "content",
+      "copywriting",
+      "strategy",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-7",
+    "title": "r/socialmediamarketing Social Growth",
+    "platform": "Reddit",
+    "category": "Social Media",
+    "memberCount": "195,000+ members",
+    "description": "Short-form video retention curves, LinkedIn personal branding frameworks, and community engagement tactics.",
+    "joinUrl": "https://www.reddit.com/r/socialmediamarketing/",
+    "tags": [
+      "social",
+      "video",
+      "engagement",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-8",
+    "title": "r/emailmarketing Retention & Deliverability",
+    "platform": "Reddit",
+    "category": "Email Marketing",
+    "memberCount": "82,000+ members",
+    "description": "DKIM/SPF/DMARC authentication, automated welcome drip flows, list segmentation, and open rate optimization.",
+    "joinUrl": "https://www.reddit.com/r/emailmarketing/",
+    "tags": [
+      "email",
+      "deliverability",
+      "klaviyo",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-9",
+    "title": "r/AffiliateMarketing Performance RevShare",
+    "platform": "Reddit",
+    "category": "Affiliate Marketing",
+    "memberCount": "170,000+ members",
+    "description": "CPA affiliate networks, high-intent review sites, disclosure compliance, and commission optimization.",
+    "joinUrl": "https://www.reddit.com/r/AffiliateMarketing/",
+    "tags": [
+      "affiliate",
+      "cpa",
+      "revshare",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-10",
+    "title": "r/copywriting Direct Response",
+    "platform": "Reddit",
+    "category": "Persuasive Copywriting",
+    "memberCount": "210,000+ members",
+    "description": "High-converting VSL scripts, long-form sales letters, hook formulas, and landing page psychology.",
+    "joinUrl": "https://www.reddit.com/r/copywriting/",
+    "tags": [
+      "copywriting",
+      "direct-response",
+      "cro",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-11",
+    "title": "r/bigseo Advanced Enterprise SEO",
+    "platform": "Reddit",
+    "category": "Enterprise SEO",
+    "memberCount": "115,000+ members",
+    "description": "Crawl budget management, hreflang multi-region matrices, JavaScript rendering, and log file analysis.",
+    "joinUrl": "https://www.reddit.com/r/bigseo/",
+    "tags": [
+      "seo",
+      "enterprise",
+      "crawling",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-12",
+    "title": "r/TechSEO Technical Audits",
+    "platform": "Reddit",
+    "category": "Technical SEO",
+    "memberCount": "48,000+ members",
+    "description": "Schema JSON-LD graph structures, canonical tags, server response headers, and indexation hygiene.",
+    "joinUrl": "https://www.reddit.com/r/TechSEO/",
+    "tags": [
+      "techseo",
+      "schema",
+      "indexing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-13",
+    "title": "r/analytics Web Measurement",
+    "platform": "Reddit",
+    "category": "Data Analytics",
+    "memberCount": "175,000+ members",
+    "description": "Conversion funnels, BigQuery event export queries, cohort retention analysis, and A/B testing stats.",
+    "joinUrl": "https://www.reddit.com/r/analytics/",
+    "tags": [
+      "analytics",
+      "ga4",
+      "data",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-14",
+    "title": "r/GoogleAnalytics GA4 Tracking",
+    "platform": "Reddit",
+    "category": "Google Analytics",
+    "memberCount": "42,000+ members",
+    "description": "Custom event definitions, user property tracking, measurement protocol parameters, and Looker Studio reports.",
+    "joinUrl": "https://www.reddit.com/r/GoogleAnalytics/",
+    "tags": [
+      "ga4",
+      "tracking",
+      "measurement",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-15",
+    "title": "r/Entrepreneur Scaling Business",
+    "platform": "Reddit",
+    "category": "Business Growth",
+    "memberCount": "3,100,000+ members",
+    "description": "Founder masterminds discussing product-market fit, customer acquisition costs (CAC), and payback periods.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "growth",
+      "business",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-discord-16",
+    "title": "Growth Hackers World Discord",
+    "platform": "Discord",
+    "category": "Growth Tactics",
+    "memberCount": "45,000+ members",
+    "description": "Live discussions on viral mechanics, programmatic SEO pipelines, and conversion rate optimizations.",
+    "joinUrl": "https://discord.gg/growth",
+    "tags": [
+      "growth",
+      "cro",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-discord-17",
+    "title": "Marketing Professionals Discord",
+    "platform": "Discord",
+    "category": "Brand & Performance",
+    "memberCount": "58,000+ members",
+    "description": "Channels dedicated to SEO, Google Ads, Meta scaling, creative briefs, and CRO experimentation.",
+    "joinUrl": "https://discord.gg/marketing",
+    "tags": [
+      "marketing",
+      "advertising",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-discord-18",
+    "title": "SEO & Webmaster Hub Discord",
+    "platform": "Discord",
+    "category": "Search Ranking",
+    "memberCount": "38,000+ members",
+    "description": "Discussions on SERP volatility, Google core updates, internal link matrices, and schema optimization.",
+    "joinUrl": "https://discord.gg/seo",
+    "tags": [
+      "seo",
+      "serp",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-discord-19",
+    "title": "Affiliate & Media Buying Discord",
+    "platform": "Discord",
+    "category": "Paid Media & RevShare",
+    "memberCount": "32,000+ members",
+    "description": "Native advertising, push traffic, cloaking-free landing pages, and CPA network discussions.",
+    "joinUrl": "https://discord.gg/affiliate",
+    "tags": [
+      "affiliate",
+      "media-buying",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-discord-20",
+    "title": "Digital Marketers Guild Discord",
+    "platform": "Discord",
+    "category": "Digital Agency",
+    "memberCount": "44,000+ members",
+    "description": "Agency owners discussing client retention, reporting templates, and omnichannel campaign structures.",
+    "joinUrl": "https://discord.gg/digitalmarketing",
+    "tags": [
+      "agency",
+      "marketing",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-discord-21",
+    "title": "Startups & Growth Loops Discord",
+    "platform": "Discord",
+    "category": "Early Growth",
+    "memberCount": "95,000+ members",
+    "description": "Bootstrappers sharing cold outreach tactics, inbound flywheel setup, and product-led growth metrics.",
+    "joinUrl": "https://discord.gg/startups",
+    "tags": [
+      "startups",
+      "growth",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-telegram-22",
+    "title": "Growth Hacking Telegram Hub",
+    "platform": "Telegram",
+    "category": "Growth Loops",
+    "memberCount": "38,000+ members",
+    "description": "Daily case studies on SaaS onboarding funnels, referral program design, and virality coefficients.",
+    "joinUrl": "https://t.me/growthhacking",
+    "tags": [
+      "growth",
+      "saas",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-telegram-23",
+    "title": "Digital Marketing Insights Telegram",
+    "platform": "Telegram",
+    "category": "Marketing News",
+    "memberCount": "52,000+ members",
+    "description": "Real-time updates on ad policy shifts, algorithm updates, and emerging advertising channels.",
+    "joinUrl": "https://t.me/digitalmarketing",
+    "tags": [
+      "marketing",
+      "news",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-telegram-24",
+    "title": "SEO Signals Broadcast Telegram",
+    "platform": "Telegram",
+    "category": "Search Updates",
+    "memberCount": "46,000+ members",
+    "description": "Alerts on Google search quality rater guidelines updates and confirmed search ranking adjustments.",
+    "joinUrl": "https://t.me/seo",
+    "tags": [
+      "seo",
+      "google",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-telegram-25",
+    "title": "Affiliate Marketing News Telegram",
+    "platform": "Telegram",
+    "category": "Affiliate Updates",
+    "memberCount": "34,000+ members",
+    "description": "High-converting offer alerts, vertical commission changes, and tracking platform updates.",
+    "joinUrl": "https://t.me/affiliatemarketing",
+    "tags": [
+      "affiliate",
+      "offers",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-forum-26",
+    "title": "GrowthHackers Community Forum",
+    "platform": "Forum",
+    "category": "Growth Case Studies",
+    "memberCount": "190,000+ members",
+    "description": "The official community founded by Sean Ellis featuring granular experiment logs and growth frameworks.",
+    "joinUrl": "https://growthhackers.com/posts",
+    "tags": [
+      "growth",
+      "experiments",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-forum-27",
+    "title": "Moz Q&A Search Community",
+    "platform": "Forum",
+    "category": "SEO Best Practices",
+    "memberCount": "140,000+ members",
+    "description": "Authoritative search marketing advice on canonicalization, link equity, and algorithmic penalties.",
+    "joinUrl": "https://moz.com/community/q",
+    "tags": [
+      "moz",
+      "seo",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-forum-28",
+    "title": "HubSpot Inbound Community",
+    "platform": "Forum",
+    "category": "Inbound & CRM",
+    "memberCount": "220,000+ members",
+    "description": "Marketing automation workflows, lead scoring criteria, and customer journey orchestration.",
+    "joinUrl": "https://community.hubspot.com",
+    "tags": [
+      "hubspot",
+      "inbound",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-forum-29",
+    "title": "BlackHatWorld Digital Marketing",
+    "platform": "Forum",
+    "category": "Aggressive Marketing",
+    "memberCount": "850,000+ members",
+    "description": "High-volume traffic generation, scraping methodologies, proxy setups, and social media automation.",
+    "joinUrl": "https://www.blackhatworld.com",
+    "tags": [
+      "traffic",
+      "automation",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "programmatic-seo-scaled-publishing-hub-forum-30",
+    "title": "Product Hunt Discussion Guild",
+    "platform": "Forum",
+    "category": "Product Launches",
+    "memberCount": "650,000+ members",
+    "description": "Crowdsourced advice on launch-day promotion, influencer outreach, and press syndicate coverage.",
+    "joinUrl": "https://www.producthunt.com/discussions",
+    "tags": [
+      "producthunt",
+      "launches",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
