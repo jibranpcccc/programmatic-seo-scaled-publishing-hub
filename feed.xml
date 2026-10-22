@@ -4,10 +4,17 @@
     <title>Programmatic SEO &amp; Scaled Publishing Hub</title>
     <link>https://programmatic-seo-scaled-publishing-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:07:39 GMT</lastBuildDate>
     <atom:link href="https://programmatic-seo-scaled-publishing-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/programmatic-seo-scaled-publishing-hub/#programmatic-seo-scaled-publishing-hub-github-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:07:39 GMT</pubDate>
+      <description>Newly verified community added to Programmatic SEO &amp; Scaled Publishing Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
       <link>https://users.rust-lang.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/programmatic-seo-scaled-publishing-hub/#programmatic-seo-scaled-publishing-hub-github-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/programmatic-seo-scaled-publishing-hub/#programmatic-seo-scaled-publishing-hub-telegram-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:07:08 GMT</pubDate>
       <description>Newly verified community added to Programmatic SEO &amp; Scaled Publishing Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
-      <link>https://discord.gg/tech</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/programmatic-seo-scaled-publishing-hub/#programmatic-seo-scaled-publishing-hub-discord-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:40:05 GMT</pubDate>
-      <description>Newly verified community added to Programmatic SEO &amp; Scaled Publishing Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
     </item>
   </channel>
 </rss>
