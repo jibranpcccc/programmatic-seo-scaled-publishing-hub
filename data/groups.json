@@ -1,5 +1,24 @@
 [
   {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-2",
+    "title": "r/SEO Search Optimization",
+    "platform": "Reddit",
+    "category": "Search Engine Optimization",
+    "memberCount": "280,000+ members",
+    "description": "Technical SEO audits, Core Web Vitals, link building strategies, and algorithmic Google update discussions.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "serp",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "programmatic-seo-scaled-publishing-hub-reddit-1",
     "title": "r/growthhacking Scaling Loops",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -606,24 +625,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "programmatic-seo-scaled-publishing-hub-reddit-2",
-    "title": "r/SEO Search Optimization",
-    "platform": "Reddit",
-    "category": "Search Engine Optimization",
-    "memberCount": "280,000+ members",
-    "description": "Technical SEO audits, Core Web Vitals, link building strategies, and algorithmic Google update discussions.",
-    "joinUrl": "https://www.reddit.com/r/SEO/",
-    "tags": [
-      "seo",
-      "serp",
-      "google",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "programmatic-seo-scaled-publishing-hub-reddit-3",
