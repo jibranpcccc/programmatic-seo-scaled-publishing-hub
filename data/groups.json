@@ -1,5 +1,24 @@
 [
   {
+    "id": "programmatic-seo-scaled-publishing-hub-reddit-3",
+    "title": "r/marketing Professional Strategists",
+    "platform": "Reddit",
+    "category": "General Marketing",
+    "memberCount": "780,000+ members",
+    "description": "Omnichannel brand positioning, customer lifetime value (LTV) modeling, and marketing mix modeling (MMM).",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "strategy",
+      "brand",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "programmatic-seo-scaled-publishing-hub-reddit-2",
     "title": "r/SEO Search Optimization",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -625,24 +644,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "programmatic-seo-scaled-publishing-hub-reddit-3",
-    "title": "r/marketing Professional Strategists",
-    "platform": "Reddit",
-    "category": "General Marketing",
-    "memberCount": "780,000+ members",
-    "description": "Omnichannel brand positioning, customer lifetime value (LTV) modeling, and marketing mix modeling (MMM).",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
-    "tags": [
-      "marketing",
-      "strategy",
-      "brand",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "programmatic-seo-scaled-publishing-hub-reddit-4",
